@@ -1,0 +1,10 @@
+node_modules/
+build/
+.dockerignore
+.editorconfig
+.gitignore
+.nvmrc
+docker-compose.yml
+Dockerfile
+LICENSE
+README.md
